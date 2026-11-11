@@ -1,17 +1,38 @@
-# Awesome-Sales-Email-Tracking-Engagement
+<div align="center">
 
-# Awesome Sales Email Tracking & Engagement
+<a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Engagement">
+  <img src="assets/banner.svg" alt="Awesome Sales Email Tracking &amp; Engagement Banner" width="100%" />
+</a>
 
-> A curated list of top Sales Email Tracking and Engagement platforms — both SaaS/Hosted commercial solutions and open-source alternatives for tracking opens, clicks, and replies to optimize outbound sales efforts.
-> 🌟 Star this repo if you find it useful! 🌟
+# Awesome Sales Email Tracking & Engagement 📬🚀
+
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Engagement/graphs/commit-activity) [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
+
+**A curated, production-tested directory of the top Sales Email Tracking and Engagement platforms — covering both commercial SaaS solutions and self-hosted open-source software for tracking email opens, link clicks, replies, and optimizing outbound cold outreach.**
+
+*Keywords: sales email tracking, cold email outreach, sales engagement platforms (SEP), email open pixel tracker, email deliverability, email sequence automation, sales cadences, self-hosted email analytics.*
+
+---
+
+<p align="center">
+  <a href="#-sector-overview--market-dynamics">📈 Sector Overview</a> •
+  <a href="#-saas--hosted-platforms">🟦 SaaS Platforms</a> •
+  <a href="#-open-source-software">🟩 Open Source</a> •
+  <a href="#-comparison-at-a-glance">📊 Feature Matrix</a> •
+  <a href="#-star-history">⭐ Star History</a> •
+  <a href="#-support--sponsor">💖 Support</a> •
+  <a href="#-contributing">🤝 Contributing</a>
+</p>
+
+</div>
 
 ---
 
 ## 📋 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
   - [Plunk](#plunk)
   - [Sellbird](#sellbird)
   - [SalesGPT](#salesgpt)
@@ -24,8 +45,11 @@
   - [Pigeon](#pigeon)
   - [email-tracker-go](#email-tracker-go)
   - [OpenTracker / Mail-Tracker](#opentracker--mail-tracker)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
+- [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
@@ -148,6 +172,25 @@ A self-hosted, privacy-first open tracking alternative to Mailtrack that runs co
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Sales-Email-Tracking-Engagement&type=Date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Sales-Email-Tracking-Engagement&type=Date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring this curated repository! If you find this collection helpful for your sales operations, prospecting pipelines, or open-source stack, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** tools, libraries, and frameworks.
+- 📢 **Share with colleagues, SDRs, and developers** who build or optimize outbound sales engagement engines.
+- ☕ **Buy a coffee & sponsor ongoing maintenance:** Support the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this directory up to date and community-driven! 🙏✨
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you know of an open-source Sales Email Tracking or Engagement tool that should be listed here, please open a pull request with:
@@ -163,8 +206,10 @@ Please ensure the project is actively maintained and genuinely open-source.
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This list is released under [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/). The individual software projects listed retain their respective licenses.
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<div align="center">
+  ⭐ <b>If this list helped you discover a useful tool, please star the repo!</b> ⭐
+</div>
