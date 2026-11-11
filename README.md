@@ -77,76 +77,76 @@ Commercial, cloud-hosted Sales Email Tracking and Engagement platforms sorted by
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Sales Email Tracking and Engagement tools. Sorted by GitHub star count (descending).
+Self-hosted, community-driven Sales Email Tracking and Engagement tools. Sorted by GitHub Stars_Count (descending).
 
 ### Plunk
-[![GitHub stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)  
 **Stack:** TypeScript / Next.js / AWS SES / Docker | **License:** AGPL-3.0  
 Plunk is an open-source email platform built on top of AWS SES that serves as a self-hostable alternative to SendGrid, Mailgun, and Postmark. It provides transactional email delivery, marketing campaigns, and real-time open and click tracking with webhooks and detailed event logs.  
 **Best for:** Developers looking for scalable, self-hosted transactional email infrastructure with built-in open and click tracking.
 
 ### Sellbird
-[![GitHub stars](https://img.shields.io/github/stars/ethanplusai/sellbird?style=social&color=white)](https://github.com/ethanplusai/sellbird/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/ethanplusai/sellbird?style=social&color=white)](https://github.com/ethanplusai/sellbird/stargazers)  
 **Stack:** Python / Next.js / LLM APIs | **License:** Apache-2.0  
 Sellbird (formerly Harvey) is an open-source outbound sales engagement platform that operates directly using your own Claude or ChatGPT subscription. It automates lead search, verifies deliverability, drafts hyper-personalized cold outreach emails, manages multi-step sequences, and monitors opens, replies, and bounces.  
 **Best for:** Teams seeking an agentic, AI-first cold email platform without recurring per-seat SaaS costs.
 
 ### SalesGPT
-[![GitHub stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)  
 **Stack:** Python / LangChain / LiteLLM | **License:** Apache-2.0  
 SalesGPT is an open-source autonomous AI sales agent designed to power context-aware sales conversations and outreach workflows. It tracks prospect engagement, manages outreach stages, handles objection resolution, and triggers automated follow-ups across email channels.  
 **Best for:** Developers building autonomous AI agents for outbound sales sequences and prospect conversational engagement.
 
 ### Signal
-[![GitHub stars](https://img.shields.io/github/stars/jay-sahnan/signal?style=social&color=white)](https://github.com/jay-sahnan/signal/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/jay-sahnan/signal?style=social&color=white)](https://github.com/jay-sahnan/signal/stargazers)  
 **Stack:** Next.js / Supabase / Claude / Browserbase | **License:** AGPL-3.0  
 Signal is an open-source AI sales intelligence and outreach automation platform positioned as a self-hosted alternative to Clay, Apollo, and Outreach. It tracks external buying triggers (hiring trends, funding rounds), enriches contact profiles, and coordinates multi-step outbound sequences with reply and bounce monitoring.  
 **Best for:** Growth engineering teams wanting an AI-assisted sales research and personalized email outreach engine with full data sovereignty.
 
 ### pytracking
-[![GitHub stars](https://img.shields.io/github/stars/powergo/pytracking?style=social&color=white)](https://github.com/powergo/pytracking/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/powergo/pytracking?style=social&color=white)](https://github.com/powergo/pytracking/stargazers)  
 **Stack:** Python / Django / Flask | **License:** MIT  
 pytracking is a dedicated Python library for email open and link-click tracking. It provides cryptographic signature generation (HMAC) to prevent tampering, 1×1 transparent pixel injection, automated link rewriting, and webhook integration for recording user engagement events.  
 **Best for:** Python and Django developers needing an embeddable, modular open/click tracking engine for custom sales applications.
 
 ### Email-automation
-[![GitHub stars](https://img.shields.io/github/stars/PaulleDemon/Email-automation?style=social&color=white)](https://github.com/PaulleDemon/Email-automation/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/PaulleDemon/Email-automation?style=social&color=white)](https://github.com/PaulleDemon/Email-automation/stargazers)  
 **Stack:** Python / Flask / Celery | **License:** MIT  
 Email-automation is a lightweight, open-source cold email outreach and follow-up utility. It automates personalized cold emails with CSV lead imports, schedules follow-ups based on recipient response behavior, and logs delivery metrics.  
 **Best for:** Solo founders and small businesses wanting simple script-based cold email automation without paid subscriptions.
 
 ### Meteor-emails
-[![GitHub stars](https://img.shields.io/github/stars/catin-black/meteor-emails?style=social&color=white)](https://github.com/catin-black/meteor-emails/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/catin-black/meteor-emails?style=social&color=white)](https://github.com/catin-black/meteor-emails/stargazers)  
 **Stack:** Node.js / React / Express / MongoDB | **License:** MIT  
 Meteor-emails is a free and open-source cold emailing tool created to democratize outbound sales campaigns. It supports bulk CSV contact uploading, automated staggered dispatching to preserve sender reputation, template customization, and recipient reply tracking.  
 **Best for:** Early-stage startups seeking a free self-hosted web dashboard for sending cold outreach campaigns.
 
 ### Quickly
-[![GitHub stars](https://img.shields.io/github/stars/AbdelftahZowail/Quickly?style=social&color=white)](https://github.com/AbdelftahZowail/Quickly/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/AbdelftahZowail/Quickly?style=social&color=white)](https://github.com/AbdelftahZowail/Quickly/stargazers)  
 **Stack:** TypeScript / Next.js / Tailwind CSS / Prisma | **License:** MIT  
 Quickly is an open-source, self-hosted cold email platform built as a cost-effective alternative to Instantly, Smartlead, and Lemlist. It features visual campaign builders, open and click tracking via custom tracking domains, inbox rotation across multiple sending accounts, and bounce monitoring.  
 **Best for:** Outbound agencies and sales teams wanting multi-inbox rotation and tracking without volume-based software fees.
 
 ### Helio
-[![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
 **Stack:** TypeScript / Next.js / Temporal / ClickHouse / PostgreSQL | **License:** AGPL-3.0  
 Helio is an AI-native growth platform combining customer data platform (CDP) capabilities, visual journey orchestration, and marketing automation. It features pixel-based open tracking, HMAC-signed click tracking, ClickHouse event streams, and lightweight CRM deal boards.  
 **Best for:** Engineering teams needing an enterprise-scale open-source marketing automation platform with real-time email tracking and pipeline visibility.
 
 ### Pigeon
-[![GitHub stars](https://img.shields.io/github/stars/tarinagarwal/Pigeon?style=social&color=white)](https://github.com/tarinagarwal/Pigeon/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/tarinagarwal/Pigeon?style=social&color=white)](https://github.com/tarinagarwal/Pigeon/stargazers)  
 **Stack:** Next.js / MongoDB / Docker | **License:** MIT  
 Pigeon is an open-source cold email outreach and deliverability platform. Key capabilities include multi-step sequences that pause upon prospect reply, inbox rotation across Gmail/SMTP mailboxes, mailbox warmup with threaded interactions, custom tracking domains, and automated DNS record checks.  
 **Best for:** Teams looking for a self-hosted outreach system with built-in warmup algorithms and deliverability safeguarding.
 
 ### email-tracker-go
-[![GitHub stars](https://img.shields.io/github/stars/SohamRatnaparkhi/email-tracker-go?style=social&color=white)](https://github.com/SohamRatnaparkhi/email-tracker-go/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/SohamRatnaparkhi/email-tracker-go?style=social&color=white)](https://github.com/SohamRatnaparkhi/email-tracker-go/stargazers)  
 **Stack:** Go / Gin / Redis | **License:** MIT  
 email-tracker-go is a lightweight microservice written in Go for tracking email engagement using Redis for low-latency status storage. It generates unique 1×1 transparent PNG tracking pixels, embeds them into outgoing SMTP messages, and provides a REST API to inspect first open, last open, and total open counters.  
 **Best for:** Go developers who need a minimalist, standalone email open-tracking microservice with fast Redis key-value storage.
 
 ### OpenTracker / Mail-Tracker
-[![GitHub stars](https://img.shields.io/github/stars/samrathreddy/mail-tracker?style=social&color=white)](https://github.com/samrathreddy/mail-tracker/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/samrathreddy/mail-tracker?style=social&color=white)](https://github.com/samrathreddy/mail-tracker/stargazers)  
 **Stack:** Chrome Extension / Cloudflare Workers / KV | **License:** MIT  
 A self-hosted, privacy-first open tracking alternative to Mailtrack that runs completely serverless on Cloudflare Workers. It injects a tracking pixel from a Gmail Chrome extension, rewrites outgoing links, filters automated scanner bots, and prevents self-opens without monthly tracking limits.  
 **Best for:** Individual sales professionals and Gmail users wanting a free, unlimited, and privacy-respecting Mailtrack replacement.
